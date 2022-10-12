@@ -1,0 +1,619 @@
+
+[
+    {
+      "id": 1,
+      "title": "Nautica Round Neck T-shirt",
+      "description": "Solid Round Neck Men T-shirt",
+      "category": "Men",
+      "type": "T-shirts",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F01.jpg?alt=media&token=2496917b-c4c8-4fb8-b957-9e53b1d50c6e",
+      "price": 599,
+      "stock": "In stock",
+      "rating": {
+        "rate": 4.2,
+        "count": 232
+      }
+    },
+    {
+      "id": 2,
+      "title": "Voi Yellow Full T-shirt",
+      "description": "Full Men T-shirt",
+      "category": "Men",
+      "type": "T-shirts",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F02.jpg?alt=media&token=1bbb4bc9-78dd-4176-a3a1-2949f0538884",
+      "price": 799,
+      "stock": "In stock",
+      "rating": {
+        "rate": 3.8,
+        "count": 156
+      }
+    },
+    {
+      "id": 3,
+      "title": "Stripped Polo Austin Wood",
+      "description": "Stripped Polo Collar T-shirt",
+      "category": "Men",
+      "type": "T-shirts",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F03.jpg?alt=media&token=f5d4e3fb-6238-4527-a289-da06a57baca8",
+      "price": 699,
+      "stock": "In stock",
+      "rating": {
+        "rate": 4.2,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Levis Skinny Jean",
+      "description": "Men Blue Jeans",
+      "category": "Men",
+      "type": "Jeans",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F04.jpg?alt=media&token=4ec0cf0b-5096-4bf6-a0c7-0921c2e12158",
+      "stock": "Out of stock",
+      "price": 999,
+      "rating": {
+        "rate": 4.5,
+        "count": 435
+      }
+    },
+    {
+      "id": 5,
+      "title": "Mast & Harbour Blue Jean",
+      "description": "Men Navy Blue Skinny Jeans",
+      "category": "Men",
+      "type": "Jeans",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F05.jpg?alt=media&token=8be848a4-c7cf-49d2-9ae2-24f8df9509ba",
+      "stock": "In stock",
+      "price": 854,
+      "rating": {
+        "rate": 4.1,
+        "count": 269
+      }
+    },
+    {
+      "id": 6,
+      "title": "Trendy Superior Kurti -Pink",
+      "description": "Trendy Superior Kurti - Pink",
+      "category": "Women",
+      "type": "Kurti",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F06.webp?alt=media&token=331a1d5f-8a07-47f8-abe0-481cfbd6f9c3",
+      "stock": "In stock",
+      "price": 799,
+      "rating": {
+        "rate": 4,
+        "count": 98
+      }
+    },
+    {
+      "id": 7,
+      "title": "Westside White Floral-Embroidered Top",
+      "description": "Bombay Paisley by Westside White Floral-Embroidered Top",
+      "category": "Women",
+      "type": "Top",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F07.jpg?alt=media&token=9e8c6687-8003-47aa-8207-58b7a4b08300",
+      "stock": "Out of stock",
+      "price": 749,
+      "rating": {
+        "rate": 3.5,
+        "count": 12
+      }
+    },
+    {
+      "id": 8,
+      "title": "Westside Olive Peasant Lia Top",
+      "description": "LOV by Westside Olive Roan Tiered Dress with Belt",
+      "category": "Women",
+      "type": "Top",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F08.jpg?alt=media&token=021b75a3-f150-4520-8a52-c13283ea72ea",
+      "stock": "In stock",
+      "price": 999,
+      "rating": {
+        "rate": 4.3,
+        "count": 45
+      }
+    },
+    {
+      "id": 9,
+      "title": "Samsung Galaxy M33 5G (Deep Ocean Blue, 128GB/6GB)",
+      "description": "Samsung Galaxy M33 5G (Deep Ocean Blue, 6GB, 128GB Storage)",
+      "category": "Mobiles",
+      "type": "Mobile",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F09.jpg?alt=media&token=0c4adfc7-2f77-4357-a6bf-181766d66ce0",
+      "stock": "In stock",
+      "price": 17999,
+      "rating": {
+        "rate": 4.2,
+        "count": 232
+      }
+    },
+    {
+      "id": 10,
+      "title": "Redmi Note 11 (Space Black, 64GB/6GB)",
+      "description": "Xiaomi Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage)",
+      "category": "Mobiles",
+      "type": "Mobile",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F10.jpg?alt=media&token=94de374b-c550-4f7a-9cef-2b60a4d0cfa9",
+      "stock": "In stock",
+      "price": 13999,
+      "rating": {
+        "rate": 4.8,
+        "count": 776
+      }
+    },
+    {
+      "id": 11,
+      "title": "Apple iPhone 13 Pro Max (256GB) - Alpine Green",
+      "description": "Apple iPhone 13 Pro Max (256GB) - Alpine Green",
+      "category": "Mobiles",
+      "type": "Mobile",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F11.jpg?alt=media&token=70b25f4e-d379-40cc-9096-3f1df49afdb2",
+      "stock": "In stock",
+      "price": 139900,
+      "rating": {
+        "rate": 4.7,
+        "count": 316
+      }
+    },
+    {
+      "id": 12,
+      "title": "boAt Airdopes 141 True Wireless Earbuds",
+      "description": "boAt Airdopes 141 True Wireless Earbuds with 42 Hrs Playtime",
+      "category": "Electronics",
+      "type": "Earphone",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F12.jpg?alt=media&token=f3962cba-85ff-4938-a905-1ea55cf2b94a",
+      "stock": "In stock",
+      "price": 1199,
+      "rating": {
+        "rate": 4.3,
+        "count": 1102
+      }
+    },
+    {
+      "id": 13,
+      "title": "boAt Rockerz 255 Pro+ Bluetooth Earphone",
+      "description": "boAt Rockerz 255 Pro+ Bluetooth Earphone with 40 Hrs Playback",
+      "category": "Electronics",
+      "type": "Earphone",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F13.jpg?alt=media&token=27771aa4-c949-48a5-b853-77d3a0470da3",
+      "stock": "In stock",
+      "price": 1399,
+      "rating": {
+        "rate": 3.9,
+        "count": 132
+      }
+    },
+    {
+      "id": 14,
+      "title": "Tata Sampann Unpolished Green Moong Dal, 500g",
+      "description": "TATA (Grocery)",
+      "category": "Groceries",
+      "type": "Pulses",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F14.jpg?alt=media&token=80b4acef-6e75-43fe-b2e1-1147cad59c78",
+      "stock": "In stock",
+      "price": 69,
+      "rating": {
+        "rate": 4.5,
+        "count": 390
+      }
+    },
+    {
+      "id": 15,
+      "title": "India Gate Basmati Rice, 5kg",
+      "description": "India Gate (Grocery)",
+      "category": "Groceries",
+      "type": "Rice",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F15.jpg?alt=media&token=d74fba27-9109-41f7-9545-e74ebd4fb211",
+      "stock": "In stock",
+      "price": 700,
+      "rating": {
+        "rate": 5,
+        "count": 465
+      }
+    },
+    {
+      "id": 16,
+      "title": "Tata Salt Iodised, 1Kg",
+      "description": "TATA (Grocery)",
+      "category": "Groceries",
+      "type": "Salt",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F44.jpg?alt=media&token=419c46e6-05ba-4b94-b514-428fb8521c63",
+      "stock": "In stock",
+      "price": 20,
+      "rating": {
+        "rate": 4.5,
+        "count": 763
+      }
+    },
+    {
+      "id": 17,
+      "title": "Bikano Bikaneri Bhujia, 1 kg",
+      "description": "Bikano Namkeen",
+      "category": "Packaged Foods",
+      "type": "Snacks",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F17.jpg?alt=media&token=428af6eb-1e65-46db-9f96-5d73623912c0",
+      "stock": "In stock",
+      "price": 190,
+      "rating": {
+        "rate": 4.8,
+        "count": 876
+      }
+    },
+    {
+      "id": 18,
+      "title": "Bikano Navratan Mixture, 1kg",
+      "description": "Bikano Namkeen",
+      "category": "Packaged Foods",
+      "type": "Snacks",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F18.jpg?alt=media&token=05a1709c-bf05-4167-acbd-55d96ed45d02",
+      "stock": "Out of stock",
+      "price": 220,
+      "rating": {
+        "rate": 4.5,
+        "count": 732
+      }
+    },
+    {
+      "id": 19,
+      "title": "Britannia Bourbon (4+1) Combo Pack 500g",
+      "description": "Britannia",
+      "category": "Packaged Foods",
+      "type": "Biscuits",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F19.jpg?alt=media&token=e00c1f85-f247-4944-9f2d-e9601020c428",
+      "stock": "In stock",
+      "price": 70,
+      "rating": {
+        "rate": 4.4,
+        "count": 169
+      }
+    },
+    {
+      "id": 20,
+      "title": "Britannia NutriChoice Digestive, 100g",
+      "description": "Britannia",
+      "category": "Packaged Foods",
+      "type": "Biscuits",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F20.jpg?alt=media&token=a1e98f47-2972-4cb4-b381-3e65e49733e9",
+      "stock": "In stock",
+      "price": 22,
+      "rating": {
+        "rate": 4,
+        "count": 108
+      }
+    },
+    {
+      "id": 21,
+      "title": "Ching's Singapore Curry Noodles, 240g",
+      "description": "Ching's Secret",
+      "category": "Packaged Foods",
+      "type": "Noodles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F43.jpg?alt=media&token=db34483d-d593-49d4-9b26-7c092926c70e",
+      "stock": "In stock",
+      "price": 60,
+      "rating": {
+        "rate": 4.7,
+        "count": 46
+      }
+    },
+    {
+      "id": 22,
+      "title": "Tata Coffee Grand Jar, 50g",
+      "description": "TATA",
+      "category": "Beverages",
+      "type": "Coffee",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F22.jpg?alt=media&token=75c76883-5aa6-47c1-af0d-190d335140f7",
+      "stock": "In stock",
+      "price": 145,
+      "rating": {
+        "rate": 4,
+        "count": 32
+      }
+    },
+    {
+      "id": 23,
+      "title": "Dell New Inspiron 3525 Laptop, AMD Athlon Silver 3050U",
+      "description": "Windows 11 + Office 21, 8Gb Gddr4, 256Gb Ssd, Radeon Graphics, 15.6 Inches (39.62Cms) Hd Anti Glare (D560766Win9Be, 1.68Kgs)",
+      "category": "Electronics",
+      "type": "Laptop",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F23.jpg?alt=media&token=659b6917-7cae-4f93-9d6a-e28805da2de1",
+      "stock": "In stock",
+      "price": 31599,
+      "rating": {
+        "rate": 4.6,
+        "count": 12
+      }
+    },
+    {
+      "id": 24,
+      "title": "Dell New Vostro 3510 Laptop",
+      "description": "Intel I3-1005G1, Windows 11 + Office 21, 8Gb GDDR4, 512GB SSD, FHD 15.6 Inches Carbon (Icc-D585033Win8) 1.8Kgs",
+      "category": "Electronics",
+      "type": "Laptop",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F24.jpg?alt=media&token=fb6e01dd-b610-4a0a-a0c3-937bf6843e6f",
+      "stock": "In stock",
+      "price": 39990,
+      "rating": {
+        "rate": 4.5,
+        "count": 31
+      }
+    },
+    {
+      "id": 25,
+      "title": "Samsung (43 inches) 4K Neo Series Smart LED TV",
+      "description": "Crystal 4K Neo Series Ultra HD Smart LED TV UA43AUE65AKXXL (Black)",
+      "category": "Electronics",
+      "type": "TV",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F25.jpg?alt=media&token=feba4b28-894c-45c2-acb6-17b40654b406",
+      "stock": "In stock",
+      "price": 36990,
+      "rating": {
+        "rate": 4.5,
+        "count": 22
+      }
+    },
+    {
+      "id": 26,
+      "title": "Toshiba (32 inches) E Series HD Smart Android LED TV",
+      "description": "Toshiba E Series HD Ready Smart Android LED TV 32E35KP (Silver)",
+      "category": "Electronics",
+      "type": "TV",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F26.jpg?alt=media&token=2f9c21db-72d0-411d-ad21-96caa7e16f0a",
+      "stock": "In stock",
+      "price": 19590,
+      "rating": {
+        "rate": 4,
+        "count": 9
+      }
+    },
+    {
+      "id": 27,
+      "title": "Samsung 1.5 Ton 4 Star Inverter Split AC",
+      "description": "Samsung 1.5 Ton 4 Star Inverter Split AC (Copper, Convertible 5-in-1 Cooling Mode, Anti Bacteria Filter, 2022 Model AR18BYMZAUR, White)",
+      "category": "Electronics",
+      "type": "AC",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F27.jpg?alt=media&token=22221dba-dd86-4c10-8298-fbf074d01f16",
+      "stock": "In stock",
+      "price": 37590,
+      "rating": {
+        "rate": 5,
+        "count": 57
+      }
+    },
+    {
+      "id": 28,
+      "title": "Blue Star 1.5 Ton 3 Star Inverter Split AC , 2022 Model",
+      "description": "Blue Star 1.5 Ton 3 Star Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, 2022 Model, IA318FNU, White)",
+      "category": "Electronics",
+      "type": "AC",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F28.jpg?alt=media&token=7ba0be16-570f-4bc8-800f-396bd2437460",
+      "stock": "In stock",
+      "price": 34590,
+      "rating": {
+        "rate": 4.2,
+        "count": 43
+      }
+    },
+    {
+      "id": 29,
+      "title": "Madhur Pure & Hygienic Sulphurless Sugar, 5Kg",
+      "description": "Madhur Pure & Hygienic Sulphurless Sugar (M30)",
+      "category": "Groceries",
+      "type": "Sugar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F29.jpg?alt=media&token=aef10446-375d-493b-b2d5-5a8c64548346",
+      "stock": "In stock",
+      "price": 250,
+      "rating": {
+        "rate": 4.2,
+        "count": 130
+      }
+    },
+    {
+      "id": 30,
+      "title": "Tata Sampann Unpolished Organic Rajma, 500g",
+      "description": "Tata Sampann Unpolished Organic Rajma",
+      "category": "Groceries",
+      "type": "Millets",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F30.jpg?alt=media&token=de5e18b7-1f77-4b6e-921c-00fbb7d21a20",
+      "stock": "In stock",
+      "price": 110,
+      "rating": {
+        "rate": 5,
+        "count": 40
+      }
+    },
+    {
+      "id": 31,
+      "title": "Sony Srs-Xb13 Wireless Portable Bluetooth Speaker",
+      "description": "Sony Srs-Xb13 Wireless Extra Bass Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "type": "Speaker",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F31.jpg?alt=media&token=aa92d53b-f35b-4cec-b235-55e122bf95c7",
+      "stock": "In stock",
+      "price": 3399,
+      "rating": {
+        "rate": 4.2,
+        "count": 232
+      }
+    },
+    {
+      "id": 32,
+      "title": "APPLE Watch SE GPS + Cellular MYF02HN/A 44 mm Space Grey",
+      "description": "APPLE Watch SE GPS + Cellular MYF02HN/A 44 mm Space Grey",
+      "category": "Electronics",
+      "type": "Smartwatch",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F42.jpg?alt=media&token=dee21892-f07c-4a92-a5a9-884c681909c6",
+      "stock": "In stock",
+      "price": 35499,
+      "rating": {
+        "rate": 4.1,
+        "count": 22
+      }
+    },
+    {
+      "id": 33,
+      "title": "Thums up Cold drink 750ml",
+      "description": "Thums up 750ml",
+      "category": "Beverages",
+      "type": "Cold Drink",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F33.jpg?alt=media&token=17dbaaea-5d21-4356-86cf-99fcceb1b032",
+      "stock": "In stock",
+      "price": 40,
+      "rating": {
+        "rate": 4.5,
+        "count": 130
+      }
+    },
+    {
+      "id": 34,
+      "title": "Red Bull Energy Drink 250ml",
+      "description": "Red BUll Energy Drink 250ml",
+      "category": "Beverages",
+      "type": "Cold Drink",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F34.jpg?alt=media&token=5a7c7259-a743-4fa2-84e0-647c03976432",
+      "stock": "In stock",
+      "price": 120,
+      "rating": {
+        "rate": 5,
+        "count": 95
+      }
+    },
+    {
+      "id": 35,
+      "title": "Sprite Cold drink 2L",
+      "description": "Sprite Cold drink 2L",
+      "category": "Beverages",
+      "type": "Cold Drink",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F35.jpg?alt=media&token=21e37b5f-304c-422c-bac5-e6aa443dfc9c",
+      "stock": "Out of stock",
+      "price": 80,
+      "rating": {
+        "rate": 5,
+        "count": 62
+      }
+    },
+    {
+      "id": 36,
+      "title": "Aashirvaad Shudh Chakki Whole Wheat Atta 10Kg",
+      "description": "Aashirvaad Shudh Chakki Whole Wheat Atta 10Kg",
+      "category": "Groceries",
+      "type": "Atta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F41.jpg?alt=media&token=0a59c006-a8e0-48ec-a72f-6b1106c9b5c8",
+      "stock": "In stock",
+      "price": 440,
+      "rating": {
+        "rate": 4,
+        "count": 40
+      }
+    },
+    {
+      "id": 37,
+      "title": "HP Pavilion 14 12th Gen Intel Core i5 16GB SDRAM/512GB SSD 14inch",
+      "description": "HP Pavilion 14 12th Gen Intel Core i5 16GB SDRAM/512GB SSD 14inch",
+      "category": "Electronics",
+      "type": "Laptop",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F37.jpg?alt=media&token=d5b44242-3130-4d30-96b7-a547baf3c164",
+      "stock": "In stock",
+      "price": 68890,
+      "rating": {
+        "rate": 4.5,
+        "count": 36
+      }
+    },
+    {
+      "id": 38,
+      "title": "Apple MacBook Pro M1 (14-inch, 16GB RAM, 1TB SSD) - Space Grey",
+      "description": "Apple MacBook Pro (14-inch/35.97 cm, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Space Grey",
+      "category": "Electronics",
+      "type": "Laptop",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F38.jpg?alt=media&token=fa6bba71-0b8c-4d78-8e55-1b756f52839c",
+      "stock": "In stock",
+      "price": 212690,
+      "rating": {
+        "rate": 5,
+        "count": 7
+      }
+    },
+    {
+      "id": 39,
+      "title": "Samsung Galaxy A13 Blue, 4GB RAM, 64GB - Blue",
+      "description": "Samsung Galaxy A13 Blue, 4GB RAM, 64GB - Blue",
+      "category": "Mobiles",
+      "type": "Mobile",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F39.jpeg?alt=media&token=e59794ca-fe65-41e8-8273-727de1f42977",
+      "stock": "In stock",
+      "price": 14490,
+      "rating": {
+        "rate": 4.2,
+        "count": 17
+      }
+    },
+    {
+      "id": 40,
+      "title": "boAt Stone 190F 5W Bluetooth Speaker - Red",
+      "description": "boAt Stone 190F 5W Bluetooth Speaker - Red",
+      "category": "Electronics",
+      "type": "Speaker",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F40.jpeg?alt=media&token=d7d30cdb-da67-454c-aed5-4d7fc9187f10",
+      "stock": "In stock",
+      "price": 1299,
+      "rating": {
+        "rate": 4.4,
+        "count": 47
+      }
+    },
+    {
+      "id": 41,
+      "title": "Aashirvaad Select Whole Wheat Sharbati Atta, 5kg ",
+      "description": "Aashirvaad Select Whole Wheat Sharbati Atta",
+      "category": "Groceries",
+      "type": "Atta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F45.webp?alt=media&token=71e6e5df-2009-4441-9ee5-fafe862fa8a9",
+      "stock": "Out of stock",
+      "price": 250,
+      "rating": {
+        "rate": 4.6,
+        "count": 14
+      }
+    },
+    {
+      "id": 42,
+      "title": "Nescafe Classic - Instant Coffee, 50g",
+      "description": "Nescafe Classic - Instant Coffee",
+      "category": "Beverages",
+      "type": "Coffee",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F46.webp?alt=media&token=ffc1e082-0912-416f-b948-c7e76746ac30",
+      "stock": "In stock",
+      "price": 150,
+      "rating": {
+        "rate": 4.5,
+        "count": 10
+      }
+    },
+    {
+      "id": 43,
+      "title": "Act II Party Pack Salted Popcorn, 150g ",
+      "description": "Act II Party Pack Classic Salted Popcorn",
+      "category": "Packaged Foods",
+      "type": "Popcorn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F47.webp?alt=media&token=c5eb6a7f-6720-4daa-8df6-cebfd324abbc",
+      "stock": "In stock",
+      "price": 45,
+      "rating": {
+        "rate": 4,
+        "count": 24
+      }
+    },
+    {
+      "id": 44,
+      "title": "Khushal K Women Rayon Solid Kurti - Yellow",
+      "description": "Khushal K Women Rayon Solid Kurti Yellow",
+      "category": "Women",
+      "type": "Kurti",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecomm-store-22.appspot.com/o/assets%2Fimages%2F48.jpg?alt=media&token=c8438482-eac7-4789-abdf-06ae9955af7a",
+      "stock": "In stock",
+      "price": 899,
+      "rating": {
+        "rate": 4,
+        "count": 33
+      }
+    }
+  ]
